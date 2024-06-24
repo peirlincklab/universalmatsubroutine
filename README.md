@@ -1,4 +1,4 @@
-# A universal material subroutine for soft matter systems
+# A universal material model subroutine for soft matter systems
 When using, please cite  
 "A universal material subroutine for soft matter systems",  
 M. Peirlinck, J.A. Hurtado, M.K. Rausch, A. Buganza Tepole, E. Kuhl  
