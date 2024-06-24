@@ -1,0 +1,36 @@
+<Description>
+   ABAQUS/ABQcaeG rank 0 received the ABORT signal
+
+</Description>
+
+<Context>
+   ABQcaeG
+</Context>
+
+<Callstack>
+</Callstack>
+
+<Memory>
+   <Current>            0 GB </Current>
+   <Resident>           0 GB </Resident>
+   <Physical>          31 GB </Physical>
+   <Limit>              0 GB </Limit>
+   <Accessible>        31 GB </Accessible>
+   <Available>         17 GB </Available>
+   <Allocator>            DL </Allocator>
+</Memory>
+
+<Swap>
+       <Size>          33 GB </Size>
+       <Used>          17 GB </Used>
+       <Free>          16 GB </Free>
+</Swap>
+
+<Directories>
+  <current> C:\Users\mathi\Research\Data\WRK\GitHub\peirlincklab\universalmatsubroutine\SUBROUTINE </current> <free>   1168 GB </free>   <used>    721 GB </used> 
+     <temp> C:\Users\mathi\AppData\Local\Temp </temp>    <free>   1168 GB </free>
+</Directories>
+
+<Installation>
+</Installation>
+
