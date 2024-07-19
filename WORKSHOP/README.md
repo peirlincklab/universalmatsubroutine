@@ -1,3 +1,4 @@
+### WCCM2024 workshop
 Source code, model database, and FEA input files for the 
 WCCM2024 workshop on _Automated Model Discovery_,
 Vancouver, July 21st 2024.
