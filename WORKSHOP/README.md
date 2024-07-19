@@ -12,10 +12,10 @@ Files:
 - **BLOCK10-arterial.inp** - FEA input file twist pull block simulation, leveraging universal material subroutine to model constitutive neural network-discovered arterial adventitia tissue material model
 - **BLOCK10-myocard.inp** - FEA input file twist pull block simulation, leveraging universal material subroutine to model constitutive neural network-discovered myocardial tissue material model
 
-
+  
 
 When using, please cite  
 **"A universal material model subroutine for soft matter systems",  
-M. Peirlinck, J.A. Hurtado, M.K. Rausch, A. Buganza Tepole, E. Kuhl,
-Engineering with Computers, 2024**
+M. Peirlinck, J.A. Hurtado, M.K. Rausch, A. Buganza Tepole, E. Kuhl,  
+Engineering with Computers, 2024**,
 [doi](https://doi.org/10.48550/arXiv.2404.13144).
