@@ -40,7 +40,7 @@ HEXcube benchmark - author: Mathias Peirlinck
  7,
 *Nset, nset=N8
  8,
-*ORIENTATION,name=ori-1,local directions=2
+*ORIENTATION,name=ori-1,local directions=3
  1.0,0.0,0.0,0.0,1.0,0.0
  3,0.0
 *Solid Section, elset=ALL, material=UANIuniversal, orientation=ori-1
